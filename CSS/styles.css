@@ -1,3 +1,6 @@
+/*Fontes*/
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
 * {
     box-sizing: border-box;
 }
@@ -8,6 +11,16 @@ body {
 }
 
 header {
-    background: rgb(252, 229, 233);
+    display: flex;
+    justify-content: center;
+    background: rgb(182, 151, 255);
     height: 80px;
+    align-items: center;
+}
+
+header span {
+    font-size: 40px;
+    color: white;
+    font-family: "Pacifico", cursive;
+
 }
