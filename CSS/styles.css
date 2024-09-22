@@ -30,19 +30,20 @@ header h1 {
     justify-content: center;
     width: 100%;
     height: 650px;
-    border: 1px solid red;
+
 }
 
 .box-img {
     display: flex;
+    justify-content: center;
     height: 600px;
     width: 35%;
-    border: 1px solid red;
+
 }
 
 .box-txt {
     display: flex;
     width: 35%;
     height: 600px;
-    border: 1px solid red;
+
 }
