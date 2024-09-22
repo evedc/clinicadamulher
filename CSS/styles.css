@@ -83,3 +83,17 @@ header h1 {
     background: #da2387;
     font-size: 18px;
 }
+
+.especialidades {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.box-item {
+    width: 30%;
+    height: 200px;
+    background: #e8aae3;
+    margin: 5px;
+}
