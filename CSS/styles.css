@@ -16,13 +16,14 @@ body {
 header {
     display: flex;
     justify-content: center;
-    background: rgb(182, 151, 255);
+    background: #ce4ec4;
+    ;
     height: 80px;
     align-items: center;
 }
 
 header h1 {
-    font-size: 50px;
+    font-size: 45px;
     color: white;
     font-family: "Pacifico", cursive;
     font-weight: normal;
@@ -31,6 +32,7 @@ header h1 {
 .hero {
     display: flex;
     justify-content: center;
+    margin-top: 2%;
     align-items: center;
     width: 100%;
 }
