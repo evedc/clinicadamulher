@@ -92,8 +92,9 @@ header h1 {
 }
 
 .box-item {
-    width: 30%;
-    height: 200px;
-    background: #e8aae3;
+    width: 25%;
+    height: 380px;
+    background: #ffeffe;
     margin: 5px;
+    padding: 30px 20px
 }
