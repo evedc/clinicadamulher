@@ -1,0 +1,36 @@
+@media screen and (max-width: 1200px) {
+    .hero {
+        flex-direction: column-reverse;
+    }
+
+    .box-txt {
+        flex-flow: column wrap;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        padding: 40px 30px;
+    }
+
+    .box-txt h2 {
+        font-size: 60px;
+    }
+
+    .box-txt p {
+        text-align: center;
+    }
+
+    .box-img {
+        width: 100%;
+        margin-bottom: 40px;
+    }
+
+    .box-item {
+        width: 95%;
+        height: 350px;
+    }
+
+    footer {
+        font-size: 18px;
+        text-align: center;
+    }
+}
