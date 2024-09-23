@@ -88,15 +88,24 @@ header h1 {
 
 .especialidades {
     display: flex;
-    width: 100%;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 1%;
     align-items: center;
     justify-content: center;
+    flex-flow: row wrap;
 }
 
 .box-item {
-    width: 25%;
+    width: 30%;
     height: 280px;
     background: #ffeffe;
     margin: 5px;
-    padding: 30px 20px
+    padding: 30px 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.m-top {
+    margin-top: 30px;
 }
