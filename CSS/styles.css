@@ -114,7 +114,7 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 100px;
+    margin-top: 50px;
     background: #ce4ec4;
     height: 50px;
     color: white;
@@ -123,4 +123,6 @@ footer {
 
 .whats {
     position: fixed;
+    right: 20px;
+    bottom: 20px;
 }
